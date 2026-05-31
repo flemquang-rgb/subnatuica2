@@ -1,3 +1,4 @@
+<script>
 const MAP_WIDTH = 1920;
 const MAP_HEIGHT = 1080;
 
@@ -227,3 +228,4 @@ function spawnRandomPoint(){
 }
 
 spawnRandomPoint();
+</script>
